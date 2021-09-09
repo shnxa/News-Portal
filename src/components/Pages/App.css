@@ -1,0 +1,38 @@
+
+
+
+.container {
+  background-color: white;
+  margin-left: 126px;
+  border-top: 1px solid grey;
+  margin-right: 126px;
+  margin-top: 60px;
+  display: flex;
+  
+
+}
+.header {
+  font-size: 50px;
+  text-align: center;
+  font-family:  'Times New Roman' ;
+}
+.title {
+  font-size: 28px;
+  margin-top: 20px;
+
+}
+.title:hover{
+  color: #814C34;
+  cursor: pointer;
+}
+
+.image{
+  width: 500px;
+  margin-right: 30px;
+  margin-top: 30px;
+  border-radius: 2px;
+  margin-bottom: 0;
+  max-height: 300px;
+  
+  
+}
